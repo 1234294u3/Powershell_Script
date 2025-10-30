@@ -1,0 +1,2 @@
+Get-NetIPConfiguration
+Get-NetAdapter

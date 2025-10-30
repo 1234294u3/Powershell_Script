@@ -32,3 +32,5 @@ $Uptime | Select-Object @{
         "{0} Years {1} Months {2} Days {3} Hours {4} Minutes" -f $Years, $Months, $RemainingDays, $_.Hours, $_.Minutes
     }
 }
+
+미완성.
